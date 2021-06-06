@@ -18,5 +18,7 @@ The purpose of this project was to make an LED turn on or off depending on if th
 
 ## Demo
 <img src="push-button-one.jpg" width="300px" height = "500px"/>
-<a href="https://user-images.githubusercontent.com/63562144/120941995-d8b49d00-c6f3-11eb-86e6-97f3aa4c8128.MOV"> Demo Video </a>
+
+<a href="https://user-images.githubusercontent.com/63562144/120942055-5082c780-c6f4-11eb-9ba2-9aac6a5e7597.MOV"> Live Video Demo </a>
+
 
