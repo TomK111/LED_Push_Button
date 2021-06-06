@@ -5,8 +5,8 @@
 2. Arduino UNO R3 Micro-Controller
 3. LED (Light Emitting Diode)
 4. Five Jumper Wires
-5. One 220 Ohm Resister
-6. One 1k Ohm Resister
+5. One 220 Ω Resister
+6. One 1k Ω Resister
 7. Switch Button
 8. USB Cable
 9. Arduino IDE
